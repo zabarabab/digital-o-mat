@@ -1,6 +1,6 @@
 window.omatdata = {
 	"questions": [
-		["Selbstbestimmung","Lehrkräfte des Landes NRW sollten dazu angehalten und dabei unterstützt werden, selbst erstellte Lehrmaterialien freizugeben, sodass jede/r sie nutzen, bearbeiten und weitergeben darf. Es sollte also nicht jeder Lehrkraft selbst überlassen sein, über eine solche Freigabe zu entscheiden."],
+		["Selbstbestimmung","test Lehrkräfte des Landes NRW sollten dazu angehalten und dabei unterstützt werden, selbst erstellte Lehrmaterialien freizugeben, sodass jede/r sie nutzen, bearbeiten und weitergeben darf. Es sollte also nicht jeder Lehrkraft selbst überlassen sein, über eine solche Freigabe zu entscheiden."],
 		["Teilhabe & Empowerment","Die Ermittlungsbehörden sollten grundsätzlich nicht, auch nicht mit Durchsuchungsbeschluss, mittels Schadsoftware, Sicherheitslücken oder ähnlicher Verfahren heimlich auf digitale Endgeräte Einzelner zugreifen dürfen."],
 		["Vorhersagende Polizeiarbeit","Die Ermittlungsbehörden sollten auch anlasslos auf Informationen aus sozialen Netzwerken zugreifen und Voraussagen über das Gefahrenpotenzial von Einzelpersonen oder Gruppen, wie etwa Geflüchtete, treffen dürfen."],
 		["Software","Das Land NRW sollte verstärkt Computerprogramme einsetzen und fördern, die für die Allgemeinheit zur kostenfreien Nutzung und Bearbeitung freigegeben sind (Freie und Open-Source-Software)."],
