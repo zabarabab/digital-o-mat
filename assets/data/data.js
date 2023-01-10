@@ -10,12 +10,12 @@ window.omatdata = {
 		["Museen","Staatliche Museen des Landes NRW sollten frei darüber entscheiden können, ob Besucherinnen und Besucher ihrer Räume – abgesehen von Blitzlichtverboten bei empfindlichen Gegenständen – Fotos machen dürfen."]
 	],
 	"parties": [
-		"linke",
-		"piraten",
-		"afd",
-		"fdp",
-		"gruene",
-		"cdu",
+		"Ist doch alles gut so wie es ist – das machen wir doch alles schon",
+		"Super, packen wir es an",
+		"Das kann doch nicht Euer Ernst sein",
+		"Klingt super – aber…",
+		"Wie sollen wir das denn auch noch alles schaffen?",
+		"Jetzt wird wieder die nächste Sau durch´s FSH getrieben…",
 		"spd"
 	],
 	"answers": [
