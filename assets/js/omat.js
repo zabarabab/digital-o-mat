@@ -5,13 +5,12 @@ $(document).ready(function(){
 
 	// party matrix
 	var parties = {
-		"afd": ["AfD","Alternative für Deutschland"],
-		"cdu": ["CDU","Christlich Demokratische Union"],
-		"fdp": ["FDP","Freie Demokratische Partei"],
-		"gruene": ["Grüne","Bündnis_90/Die_Grünen"],
-		"linke": ["Linke","Die Linke"],
-		"piraten": ["Piraten","Piratenpartei"],
-		"spd": ["SPD","Sozialdemokratische Partei Deutschlands"]
+		"Ist doch alles gut so wie es ist – das machen wir doch alles schon.",
+		"Super, packen wir es an",
+		"Das kann doch nicht Euer Ernst sein ",
+		"Klingt super – aber…",
+		"Wie sollen wir das denn auch noch alles schaffen?",
+		"Jetzt wird wieder die nächste Sau durch´s FSH getrieben…."
 	};
 	
 	var keys = ["Ablehnung","Neutral","Zustimmung"];
