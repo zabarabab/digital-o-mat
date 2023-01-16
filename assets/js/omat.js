@@ -10,7 +10,8 @@ $(document).ready(function(){
                "fdp": ["Veränderung","Das kann doch nicht Euer Ernst sein"],
                "gruene": ["Fürsorge","Klingt super – aber…"],
                "linke": ["BTHG","Wie sollen wir das denn auch noch alles schaffen?"],
-               "piraten": ["Personenzentrierung","Jetzt wird wieder die nächste Sau durch´s FSH getrieben…."]
+               "piraten": ["Personenzentrierung","Jetzt wird wieder die nächste Sau durch´s FSH getrieben…."],
+		"spd": ["SPD","Sozialdemokraten"]
 	};
 	
 	var keys = ["Ablehnung","Neutral","Zustimmung"];
