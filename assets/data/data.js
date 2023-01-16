@@ -38,12 +38,13 @@ window.omatdata = {
 		["Personenzentrierung","Die Personenzentrierung ist zu idealistisch und setzt sich nicht mit den Realitäten und Herausforderungen des Lebens auseinander."]
 	],
 	"parties": [
-		"Ist doch alles gut so wie es ist – das machen wir doch alles schon",
-		"Super, packen wir es an",
-		"Das kann doch nicht Euer Ernst sein",
-		"Klingt super – aber…",
-		"Wie sollen wir das denn auch noch alles schaffen?",
-		"Jetzt wird wieder die nächste Sau durch´s FSH getrieben…"
+	       "linke",
+               "piraten",
+               "afd",
+               "fdp",
+               "gruene",
+               "cdu",
+               "spd"
 	],
 	"answers": [
 		[
