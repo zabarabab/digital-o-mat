@@ -5,12 +5,12 @@ $(document).ready(function(){
 
 	// party matrix
 	var parties = {
-               "afd": ["SB&EP","Ist doch alles gut so wie es ist – das machen wir doch alles schon."],
-               "cdu": ["TH&SRO","Super, packen wir es an"],
-               "fdp": ["VÄ","Das kann doch nicht Euer Ernst sein"],
-               "gruene": ["FS","Klingt super – aber…"],
-               "linke": ["BTHG","Wie sollen wir das denn auch noch alles schaffen?"],
-               "piraten": ["PZ","Jetzt wird wieder die nächste Sau durch´s FSH getrieben…."],
+               "afd": ["PZ 1","Visionäre / Missionare / aktiv Gläubige."],
+               "cdu": ["PZ 2","Opportunisten / Abwartenden / Gleichgültigen."],
+               "fdp": ["PZ 3","Untergrundkämpfer / offene Gegner."],
+               "gruene": ["Blanco","Klingt super – aber…"],
+               "linke": ["Blanco","Wie sollen wir das denn auch noch alles schaffen?"],
+               "piraten": ["Blanco","Jetzt wird wieder die nächste Sau durch´s FSH getrieben…."],
 		"spd": ["SPD","Sozialdemokraten"]
 	};
 	
