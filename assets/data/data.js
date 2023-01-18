@@ -10,7 +10,7 @@ window.omatdata = {
 		["Teilhabe & Sozialraumorientierung","Es ist wichtig, dass alle Menschen die Möglichkeit haben, sich an politischen Prozessen und Entscheidungen zu beteiligen, damit sie ihre Stimme und ihre Perspektive vertreten können."],
 		["Veränderung","Ich habe schon lange auf eine Veränderung gewartet. Endlich geht es los."],
 		["Fürsorge","Unsere fürsorgliche Arbeit trägt maßgeblich zu einer gleichberechtigten Teilhabe bei, in dem Menschen mit Behinderung in einem geschützten Rahmen wohnen, arbeiten und ihre Freizeit gestalten können."],
-		["Bundesteilhabegesetz","Meiner Meinung nach, wird das Bundesteilhabegesetz dazu beitragen, dass Menschen mit Behinderung mehr Kontrolle über ihr Leben haben und selbstbestimmter leben können."],
+		["Bundesteilhabegesetz","Es bleibt abzuwarten, ob das Bundesteilhabegesetz die Teilhabe von Menschen mit Behinderung verbessert."],
 		["Personenzentrierung","Aus meiner Sicht kann die Personenzentrierung dazu beitragen, dass wir ein besseres Verständnis für die Ziele und Bedürfnisse von Menschen mit Behinderung entwickeln und so die Angebote des Franz Sales Hauses individueller gestalten können."],
 		["Selbstbestimmung & Empowerment","Meiner Ansicht nach, kann Selbstbestimmung dazu beitragen, dass ein Mensch zufriedener ist."],
 		["Teilhabe & Sozialraumorientierung","Ich fühle mich zufrieden, wenn ich eine Arbeit habe, die ich gerne mache."],
@@ -82,7 +82,7 @@ window.omatdata = {
 		[
 			[2,""],
 			[0,""],
-			[2,""],
+			[1,""],
 			[0,""],
 			[2,""],
 			[2,""]
