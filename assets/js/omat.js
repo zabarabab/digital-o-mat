@@ -14,7 +14,7 @@ $(document).ready(function(){
 		"spd": ["SPD","Sozialdemokraten"]
 	};
 	
-	var keys = ["Ablehnung","Neutral","Zustimmung"];
+	var keys = ["Ich bin skeptisch","Das bezweifel ich","Da steh ich hinter"];
 
 	// caches
 	var $window = $(window);
