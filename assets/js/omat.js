@@ -5,13 +5,13 @@ $(document).ready(function(){
 
 	// party matrix
 	var parties = {
-               "afd": ["SB","Ist doch alles gut so wie es ist – das machen wir doch alles schon."],
-               "cdu": ["TH","Super, packen wir es an."],
-               "fdp": ["EP","Das kann doch nicht Euer Ernst sein."],
-               "gruene": ["FS","Klingt super – aber…"],
-               "linke": ["BTHG","Wie sollen wir das denn auch noch alles schaffen?"],
-               "piraten": ["PZ","Jetzt wird wieder die nächste Sau durch´s FSH getrieben…"],
-		"spd": ["SRO","Sozialdemokraten"]
+               "afd": ["FB 3","Ist doch alles gut so wie es ist – das machen wir doch alles schon."],
+               "cdu": ["FB 6","Super, packen wir es an."],
+               "fdp": ["FB 4","Das kann doch nicht Euer Ernst sein."],
+               "gruene": ["FB 5","Klingt super – aber…"],
+               "linke": ["FB 1","Wie sollen wir das denn auch noch alles schaffen?"],
+               "piraten": ["FB 2","Jetzt wird wieder die nächste Sau durch´s FSH getrieben…"],
+		"spd": ["FB 7","Sozialdemokraten"]
 	};
 	
 	var keys = ["Ablehnung","Neutral","Zustimmung"];
