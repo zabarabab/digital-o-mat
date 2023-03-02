@@ -1,8 +1,8 @@
 window.omatdata = {
 	"questions": [
-		["Selbstbestimmung & Empowerment","Ich möchte dazu beitragen, Menschen mit einer Behinderung zu befähigen, ihr Leben selbstbestimmt leben können."],
-		["Teilhabe & Sozialraumorientierung","Ich bin zufrieden, wenn ich die Möglichkeit habe, nach meinen Wünschen am gemeinschaftlichen Leben teil zu haben und mich einzubringen."],
-		["Veränderung","Meiner Meinung nach kann Veränderung dazu beitragen, dass wir uns weiterentwickeln und wachsen."],
+		["Selbstbestimmung","Selbstbestimmung bedeutet auch Selbstverantwortung. Hierfür sind Empowerment-Prozesse erforderlich."],
+		["Teilhabe","Gleichberechtigte Teilhabe gilt für alle Menschen - unabhängig von der Art und Schwere ihrer Behinderung - Ich frage mich, wie ich die Klient*innen, die ich begleite, dabei unterstützen kann."],
+		["Empowerment","Selbstbestimmung und Eigenverantwortung muss jeder Mensch lernen. Er muss auch wissen, was möglich ist: 'Wer nicht weiß, was ein Fahrrad ist, wird nicht den Wunsch verspüren, Fahrrad zu fahren.'"],
 		["Fürsorge","Es ist mir wichtig, Menschen mit Behinderung zu beschützen, indem ich für sie sorge."],
 		["Bundesteilhabegesetz","Das Bundesteilhabegesetz ist ein wichtiger Schritt in Richtung einer inklusiveren Gesellschaft."],
 		["Personenzentrierung","Die Personenzentrierung ist ein wichtiger Ansatz, um Menschen mit Behinderung zu unterstützen, ihr volles Potenzial zu entfalten und ein selbstbestimmtes Leben zu führen"],
