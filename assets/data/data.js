@@ -1,6 +1,6 @@
 window.omatdata = {
 	"questions": [
-		["Selbstbestimmung","Selbstbestimmung bedeutet auch Selbstverantwortung. Hierfür sind Empowerment-Prozesse erforderlich."],
+		["","Selbstbestimmung bedeutet auch Selbstverantwortung. Hierfür sind Empowerment-Prozesse erforderlich."],
 		["Teilhabe","Gleichberechtigte Teilhabe gilt für alle Menschen - unabhängig von der Art und Schwere ihrer Behinderung - Ich frage mich, wie ich die Klient*innen, die ich begleite, dabei unterstützen kann."],
 		["Empowerment","Selbstbestimmung und Eigenverantwortung muss jeder Mensch lernen. Er muss auch wissen, was möglich ist: 'Wer nicht weiß, was ein Fahrrad ist, wird nicht den Wunsch verspüren, Fahrrad zu fahren.'"],
 		["Fürsorge","Wie sieht die Selbstbestimmung bei langjährigen Klient*innen aus? Aus einem System struktureller Gewalt in die strukturelle Vereinsamung?"],
