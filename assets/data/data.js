@@ -1,7 +1,7 @@
 window.omatdata = {
 	"questions": [
-		["","Selbstbestimmung bedeutet auch Selbstverantwortung. Hierfür sind Empowerment-Prozesse erforderlich."],
-		["","Gleichberechtigte Teilhabe gilt für alle Menschen - unabhängig von der Art und Schwere ihrer Behinderung. Mir stellt sich die Frage: Wie ich die Klient*innen, die ich begleite, dabei unterstützen kann."],
+		["","Selbstbestimmung bedeutet auch Selbstverantwortung. Hierfür sind Empowerment-Prozesse erforderlich. Damit habe ich mich schon auseinandergesetzt."],
+		["","Gleichberechtigte Teilhabe gilt für alle Menschen - unabhängig von der Art und Schwere ihrer Behinderung. Mir stellt sich häufig die Frage, wie ich die Klient*innen, die ich begleite, dabei unterstützen kann."],
 		["","Selbstbestimmung und Eigenverantwortung muss jeder Mensch lernen. Er muss auch wissen, was möglich ist: 'Wer nicht weiß, was ein Fahrrad ist, wird nicht den Wunsch verspüren, Fahrrad zu fahren.'"],
 		["","Wie sieht die Selbstbestimmung bei langjährigen Klient*innen aus? Ich stelle mir die Frage: Kommen wir aus einem System der strukturellen Gewalt in die strukturelle Vereinsamung?"],
 		["","Gleichberechtigung bedeutet, dass Menschen mit Behinderung die gleichen Rechte und Pflichten haben, wie alle anderen Menschen auch."],
@@ -37,13 +37,13 @@ window.omatdata = {
 	],
 	"answers": [
 		[
-			[2,""],
 			[0,""],
 			[2,""],
 			[0,""],
-			[0,""],
-			[0,""],
-			[0,""]
+			[2,""],
+			[2,""],
+			[2,""],
+			[2,""]
 		],
 		[
 			[0,""],
