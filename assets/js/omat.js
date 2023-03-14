@@ -181,10 +181,10 @@ $(document).ready(function(){
 		$("#result").html(Mustache.render(tmpl.result, result));
 		
 		// activate detail
-		$(".party.explanation h5","#detail").click(function(evt){
-			evt.preventDefault();
-			$(this).parent().toggleClass("show-explanation");
-		});
+		// $(".party.explanation h5","#detail").click(function(evt){
+		// 	evt.preventDefault();
+		// 	$(this).parent().toggleClass("show-explanation");
+		// });
 		
 		// ping for stats, no data whatsoever.
 		$.get("calculated", function(){});
