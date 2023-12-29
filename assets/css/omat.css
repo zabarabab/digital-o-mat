@@ -94,7 +94,7 @@ body {
 		left: 0px;
 		height: 3em;
 		width: 60vw;
-		background: url(../images/logo_digitalomat-mobil.svg) left top no-repeat;
+		background: url(../images/logo_digitalomat-mobil.png) left top no-repeat;
 		background-size: contain;
 	}
 
@@ -854,7 +854,7 @@ body {
 				right: 40px;
 				max-width: 300px;
 				min-width: 200px;
-				background: url(../images/logo_digitalomat.svg) left top no-repeat;
+				background: url(../images/logo_digitalomat.png) left top no-repeat;
 				background-size: contain;
 			}
 	
